@@ -1,0 +1,15 @@
+{
+  "schema": "art.v0",
+  "name": "Olive NFT Music",
+  "description": "Olive HD - High Quality Audio NFT",
+  "image": "https://raw.githubusercontent.com/liamnibble2020/nft-ticket/main/oolive.png",
+  "animation_url": "https://raw.githubusercontent.com/liamnibble2020/nft-ticket/main/hot.mp3",
+  "external_url": "https://raw.githubusercontent.com/liamnibble2020/nft-ticket/main/hot.mp3",
+  "audio": "https://raw.githubusercontent.com/liamnibble2020/nft-ticket/main/hot.mp3",
+  "attributes": [
+    {
+      "trait_type": "Format",
+      "value": "Audio/MP4"
+    }
+  ]
+}
