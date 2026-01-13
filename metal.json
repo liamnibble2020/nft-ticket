@@ -1,0 +1,15 @@
+{
+  "schema": "art.v0",
+  "name": "Metal NFT Music",
+  "description": "Metal HD - High Quality Audio NFT",
+  "image": "https://raw.githubusercontent.com/liamnibble2020/nft-ticket/main/metallica.png",
+  "animation_url": "https://raw.githubusercontent.com/liamnibble2020/nft-ticket/main/metal.mp3",
+  "external_url": "https://raw.githubusercontent.com/liamnibble2020/nft-ticket/main/metal.mp3",
+  "audio": "https://raw.githubusercontent.com/liamnibble2020/nft-ticket/main/metal.mp3",
+  "attributes": [
+    {
+      "trait_type": "Format",
+      "value": "Audio/MP4"
+    }
+  ]
+}
