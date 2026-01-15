@@ -1,0 +1,52 @@
+{
+  "schema": "ipfs://Qm...",
+  "name": "Olive Dela Cruz",
+  "description": "LTO Philippines Digital Driver's License Prototype",
+  "image": "https://raw.githubusercontent.com/liamnibble2020/nft-ticket/main/oolive.png",
+  "attributes": [
+    {
+      "trait_type": "License Number",
+      "value": "N01-23-456789"
+    },
+    {
+      "trait_type": "Nationality",
+      "value": "PH"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "M"
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "O+"
+    },
+    {
+      "trait_type": "Date of Birth",
+      "value": "1990-05-20"
+    },
+    {
+      "trait_type": "Weight (kg)",
+      "value": "70"
+    },
+    {
+      "trait_type": "Height (m)",
+      "value": "1.75"
+    },
+    {
+      "trait_type": "Expiration Date",
+      "value": "2033-05-20"
+    },
+    {
+      "trait_type": "Vehicle Category",
+      "value": "A, B, B1"
+    },
+    {
+      "trait_type": "Conditions",
+      "value": "None"
+    },
+    {
+      "trait_type": "Agency Code",
+      "value": "G03"
+    }
+  ]
+}
