@@ -1,0 +1,31 @@
+{
+  "schema": "art.v0",
+  "name": "Google NFT Music Playlist",
+  "description": "High Quality Audio NFT featuring Red Hot and Metallica",
+  "image": "https://raw.githubusercontent.com/liamnibble2020/nft-ticket/main/butterfly.png",
+  "animation_url": "https://drive.google.com/uc?export=download&id=1pSHCKhbEiJ8yARC5DQqMmZaswnF30FNs",
+  "external_url": "https://drive.google.com/drive/u/0/folders/1oe8kJt6MRI7BT8EyU_3xPHMomuXIxr4H",
+  "audio": "https://drive.google.com/uc?export=download&id=1pSHCKhbEiJ8yARC5DQqMmZaswnF30FNs",
+  "attributes": [
+    {
+      "trait_type": "Track 1",
+      "value": "Red Hot Music"
+    },
+    {
+      "trait_type": "Track 1 Link",
+      "value": "https://drive.google.com/uc?export=download&id=1pSHCKhbEiJ8yARC5DQqMmZaswnF30FNs"
+    },
+    {
+      "trait_type": "Track 2",
+      "value": "Metallica Music"
+    },
+    {
+      "trait_type": "Track 2 Link",
+      "value": "https://drive.google.com/uc?export=download&id=1fkRkjqRajA0_QeUbDxkRhZkjekAZ4n0A"
+    },
+    {
+      "trait_type": "Format",
+      "value": "Audio/MP3"
+    }
+  ]
+}
