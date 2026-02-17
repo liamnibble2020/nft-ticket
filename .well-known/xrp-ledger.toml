@@ -1,0 +1,5 @@
+[[CURRENCIES]]
+code = "VOT"
+issuer = "rB5cJWxQ8RC4NkQV7SeUXKhY3nqwabjYtC"
+display_precision = 2
+icon = "https://raw.githubusercontent.com/liamnibble2020/nft-ticket/main/piso.png"
